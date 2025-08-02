@@ -1,0 +1,11 @@
+# Ignore Jupyter autosave and temp files
+.ipynb_checkpoints/
+
+# Ignore CSVs and temp data
+*.csv
+*.tmp
+*.log
+
+# Ignore unnamed notebooks
+Untitled*.ipynb
+
